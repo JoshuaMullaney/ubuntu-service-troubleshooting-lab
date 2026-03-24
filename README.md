@@ -1,5 +1,4 @@
-# ubuntu-service-troubleshooting-lab
-Working to enhance my Linux troubleshooting skills.
+
 # Ubuntu Service Troubleshooting Lab
 
 This repository documents a hands-on Ubuntu lab I built to practice Linux troubleshooting in scenarios similar to real support and operations work.
