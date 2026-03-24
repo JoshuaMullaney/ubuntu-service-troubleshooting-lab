@@ -46,7 +46,7 @@ The purpose of this lab is to practice a structured troubleshooting approach:
 
 ## Environment
 
-- Ubuntu VMs
+- Two VM, provisioned in VirtualBox running Ubuntu 24.04.4 LTS
 - Two-node lab for client/server testing
 - UFW enabled for firewall scenarios
 
